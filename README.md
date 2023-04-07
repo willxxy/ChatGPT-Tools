@@ -1,2 +1,2 @@
 # ChatGPT-Tools
-Tools for ChatGPT that I found to be useful.
+Tools for ChatGPT API that I found to be useful.
